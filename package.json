@@ -1,0 +1,12 @@
+{
+  "name": "clone-tab-news-thaigo",
+  "version": "1.0.0",
+  "description": "Projeto baseado no curso \"Curso.dev\"",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
